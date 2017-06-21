@@ -1,0 +1,6 @@
+machine:
+  java:
+    version: oraclejdk8
+compile:
+  override:
+    - mvn clean install
