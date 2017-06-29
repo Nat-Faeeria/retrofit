@@ -1,3 +1,7 @@
+https://circleci.com/gh/Nat-Faeeria/retrofit.png?circle-token=:circle-token
+
+Just forking the project to try to integrate diverse project with circle.ci, travis and jenkins in order to benchmark those CI/CD tools
+
 Retrofit
 ========
 
